@@ -72,3 +72,11 @@ streamlit run app.py
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## Author
+Chanoknan Siritham  
+Department of Applied Science  
+King Mongkut's University of Technology North Bangkok (KMUTNB)  
+GitHub: https://github.com/NewbieProgrammerPlsHelp
