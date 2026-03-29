@@ -57,7 +57,18 @@ cancer_project/
 ├─ models/
 ├─ train/
 └─ pages/
+```
+
+---
 
 ## How to Run
 ```bash
 streamlit run app.py
+```
+
+---
+
+## Requirements
+```bash
+pip install -r requirements.txt
+```
